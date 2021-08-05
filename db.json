@@ -5,51 +5,51 @@
         "G": 0,
         "B": 0,
         "A": 1,
-        "name": "red",
+        "name": "red"
       },
       {
         "R": 0,
         "G": 255,
         "B": 0,
         "A": 1,
-        "name": "green",
+        "name": "green"
       },{
         "R": 0,
         "G": 0,
         "B": 255,
         "A": 1,
-        "name": "blue",
+        "name": "blue"
       },
       {
         "R": 255,
         "G": 255,
         "B": 0,
         "A": 1,
-        "name": "yellow",
+        "name": "yellow"
       },{
         "R": 0,
         "G": 255,
         "B": 255,
         "A": 1,
-        "name": "cyan",
+        "name": "cyan"
       },{
         "R": 255,
         "G": 0,
         "B": 255,
         "A": 1,
-        "name": "magenta",
+        "name": "magenta"
       },{
         "R": 255,
         "G": 255,
         "B": 255,
         "A": 1,
-        "name": "white",
+        "name": "white"
       },{
         "R": 0,
         "G": 0,
         "B": 0,
         "A": 1,
-        "name": "black",
+        "name": "black"
       }
     ]
 }
